@@ -6,13 +6,13 @@
   <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="image1.jpg" class="d-block w-100" alt="First slide">
+        <img src="image1.jpg" class="d-block w-100" height="590">
       </div>
       <div class="carousel-item">
-        <img src="image2.jpg" class="d-block w-100" alt="Second slide">
+        <img src="image2.jpg" class="d-block w-100" height="590">
       </div>
       <div class="carousel-item">
-        <img src="image3.jpg" class="d-block w-100" alt="Third slide">
+        <img src="image3.jpg" class="d-block w-100" height="590">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
@@ -64,20 +64,20 @@
         <div class="col-md-5">
       <form>
   <div class="form-group">
-    <label for="nama">nama</label>
-    <input type="text" class="form-control" id="nama" placeholder="masukan nama">
+    <label for="nama">Nama</label>
+    <input type="text" class="form-control" id="Nama" placeholder="Masukan Nama">
   </div>
   <div class="form-group">
     <label for="nama">Email</label>
-    <input type="text" class="form-control" id="Email" placeholder="masukan email">
+    <input type="text" class="form-control" id="Email" placeholder="Masukan email">
   </div>
   <div class="form-group">
-    <label for="nama">alamat</label>
-    <input type="text" class="form-control" id="alamat" placeholder="masukan alamat">
+    <label for="nama">Alamat</label>
+    <input type="text" class="form-control" id="Alamat" placeholder="Masukan alamat">
   </div>
   <div class="form-group mb-3">
-    <label for="nama">nomor meja</label>
-    <textarea type="textarea" class="form-control" id="nomor meja" placeholder="masukan nomor meja"></textarea>
+    <label for="nama">Harga</label>
+    <textarea type="textarea" class="form-control" id="Harga" placeholder="Masukan Harga"></textarea>
   </div>
    <button type="submit" class="btn btn-primary">kirim pesan</button>
   </div>
